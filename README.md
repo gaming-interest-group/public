@@ -1,3 +1,4 @@
+# Gaming Interest Group Knowledge Base
 - [Organizer Wiki]
 - [Public Wiki]
 
